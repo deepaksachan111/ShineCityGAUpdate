@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<myappplication.noida.quaere.groupalternate.MainLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="match_parent"
+    android:background="#5C6BC0">
+
+
+    <!-- This holds our menu -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="200dp"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#303F9F"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line_complete"></LinearLayout>
+        <!-- User name Layout-->
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:background="#5C6BC0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/activity_main_userNameTv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="40dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="User Name"
+                android:textColor="#ffffff"
+                android:textSize="28sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line_complete">
+
+        </LinearLayout>
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/scrollView3"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <!-- Dashboard Layout -->
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#5C6BC0"
+                    android:visibility="gone"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/dashboard_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/dashboard" />
+
+                        <TextView
+                            android:id="@+id/activity_main_tvdashboard"
+                            android:layout_width="0dp"
+                            android:layout_height="42dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="7.5"
+                            android:paddingBottom="5dp"
+                            android:text="Dashboard"
+                            android:textColor="#ffffff"
+                            android:textSize="21sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_complete"></LinearLayout>
+                </LinearLayout>
+
+                <!-- My Profile Layout -->
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#5C6BC0"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/my_profile_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/profile1" />
+
+                        <TextView
+                            android:id="@+id/activity_main_tvMyProfile"
+                            android:layout_width="0dp"
+                            android:layout_height="42dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="7.5"
+                            android:paddingBottom="5dp"
+                            android:text="My Profile"
+                            android:textColor="#ffffff"
+                            android:textSize="21sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_complete"></LinearLayout>
+                </LinearLayout>
+
+
+                <!-- Placement Detail Layout -->
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#5C6BC0"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/placement_detail_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/placementdetail" />
+
+                        <TextView
+                            android:id="@+id/activity_main_tvPlacementDetails"
+                            android:layout_width="0dp"
+                            android:layout_height="42dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="7.5"
+                            android:paddingBottom="5dp"
+                            android:text="Placement Details"
+                            android:textColor="#ffffff"
+                            android:textSize="21sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_complete"></LinearLayout>
+                </LinearLayout>
+
+
+                <!-- My Account fragment-->
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#5C6BC0"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/myaccount_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/account"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/activity_main_tvMyAccount"
+                            android:layout_width="0dp"
+                            android:layout_height="42dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="7.5"
+                            android:paddingBottom="5dp"
+                            android:text="Account(Reports)"
+                            android:textColor="#ffffff"
+                            android:textSize="21sp" />
+
+                        <ImageView
+                            android:id="@+id/down_arrow"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/down"
+                            android:paddingTop="9dp" />
+
+                        <ImageView
+                            android:id="@+id/up_arrow"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/up_icon"
+                            android:gravity="center"
+                            android:paddingTop="9dp"
+                            android:visibility="gone" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_complete"></LinearLayout>
+                </LinearLayout>
+                <!-- Expandable view -->
+                <LinearLayout
+                    android:id="@+id/expandlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="325dp"
+                    android:background="#8C9EFF"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <ListView
+                        android:id="@+id/expandableListView2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"></ListView>
+
+                </LinearLayout>
+
+
+                <!-- My E-pin -->
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#5C6BC0"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/epin_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/e_pin"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/activity_main_menu_e_pin"
+                            android:layout_width="0dp"
+                            android:layout_height="42dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="7.5"
+                            android:paddingBottom="5dp"
+                            android:text="My E-pin"
+                            android:textColor="#ffffff"
+                            android:textSize="21sp" />
+
+                        <ImageView
+                            android:id="@+id/epin_down_arrow"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/down"
+                            android:paddingTop="9dp" />
+
+                        <ImageView
+                            android:id="@+id/epin_up_arrow"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/up_icon"
+                            android:paddingTop="9dp"
+                            android:visibility="gone" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_complete"></LinearLayout>
+                </LinearLayout>
+                <!-- My E-pin expandable view -->
+                <LinearLayout
+                    android:id="@+id/epin_expandlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:background="#8C9EFF"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/expandable_epin_Tv"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="5dp"
+                        android:paddingLeft="15dp"
+                        android:text="Epin Details "
+                        android:textColor="#fff"
+                        android:textSize="19sp"></TextView>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/line_complete"></LinearLayout>
+
+                    <TextView
+                        android:id="@+id/expandable_register_epin_Tv"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="5dp"
+                        android:paddingLeft="15dp"
+                        android:text="Register Epin "
+                        android:textColor="#fff"
+                        android:textSize="19sp"></TextView>
+
+                </LinearLayout>
+
+                <!--  Training Layout
+                     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                     android:layout_width="match_parent"
+                     android:layout_height="45dp"
+                     android:background="#040f20"
+                     android:orientation="vertical">
+
+                     <LinearLayout
+                         android:id="@+id/training_layout"
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:weightSum="10"
+                         android:orientation="horizontal">
+
+                         <ImageView
+                             android:layout_width="0dp"
+                             android:layout_height="wrap_content"
+                             android:layout_weight="1"
+                             android:layout_marginLeft="10dp"
+                             android:background="@mipmap/training"
+                             />
+
+                         <TextView
+                             android:id="@+id/activity_main_menu_training"
+                             android:layout_width="0dp"
+                             android:layout_height="42dp"
+                             android:layout_weight="7.5"
+                             android:layout_marginLeft="10dp"
+                             android:paddingBottom="5dp"
+                             android:text="Training"
+                             android:textColor="#ffffff"
+                             android:textSize="21sp" />
+
+                     </LinearLayout>
+
+                     <LinearLayout
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:background="@drawable/line_complete"></LinearLayout>
+                 </LinearLayout>-->
+
+                <!-- Enquiry -->
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:background="#5C6BC0"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/enquiry_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:background="@mipmap/enquiry" />
+
+                        <TextView
+                            android:id="@+id/activity_main_menu_enquiry"
+                            android:layout_width="0dp"
+                            android:layout_height="42dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="7.5"
+                            android:paddingBottom="5dp"
+                            android:text="Enquiry"
+                            android:textColor="#ffffff"
+                            android:textSize="21sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line_complete"></LinearLayout>
+                </LinearLayout>
+
+                <!-- &lt;!&ndash; Sign out &ndash;&gt;
+                 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                     android:layout_width="match_parent"
+                     android:layout_height="45dp"
+                     android:background="#5C6BC0"
+                     android:orientation="vertical">
+
+                     <LinearLayout
+                         android:id="@+id/signout_layout"
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:orientation="horizontal"
+                         android:weightSum="10">
+
+                         <ImageView
+                             android:layout_width="0dp"
+                             android:layout_height="wrap_content"
+                             android:layout_marginLeft="10dp"
+                             android:layout_weight="1"
+                             android:background="@mipmap/logout" />
+
+                         <TextView
+                             android:id="@+id/activity_main_menu_sign_out"
+                             android:layout_width="0dp"
+                             android:layout_height="43dp"
+                             android:layout_marginLeft="10dp"
+                             android:layout_weight="7.5"
+                             android:paddingBottom="5dp"
+                             android:text="Sign Out"
+                             android:textColor="#ffffff"
+                             android:textSize="21sp" />
+                     </LinearLayout>
+
+                     <LinearLayout
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:background="@drawable/line_complete"></LinearLayout>
+                 </LinearLayout>-->
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
+    <!-- This holds our content -->
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- This acts as Actionbar -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#303F9F"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <Button
+                android:id="@+id/activity_main_content_button_menu"
+                android:layout_width="0dp"
+                android:layout_height="31dp"
+                android:layout_marginBottom="7dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="7dp"
+                android:layout_weight="1.1"
+                android:background="@mipmap/ic_action"
+                android:onClick="toggleMenu" />
+
+            <TextView
+                android:id="@+id/activity_main_content_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="7dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="7dp"
+                android:layout_weight="5.6"
+                android:text="My Profile"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+
+            <!-- Filter Button -->
+
+            <Button
+                android:id="@+id/activity_main_update_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="7dp"
+                android:layout_marginTop="7dp"
+                android:layout_weight=".5"
+                android:background="@null"
+                android:text="Edit"
+                android:textColor="#ffffff"
+                android:textSize="19sp"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/activity_main_logoutBtn"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_marginBottom="7dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:layout_weight="0.8"
+                android:background="@mipmap/logout"
+                android:textStyle="bold" />
+
+
+            <LinearLayout
+
+                android:id="@+id/linearview_webview"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_marginBottom="7dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:layout_weight="2"
+                android:background="@drawable/gradient_bg">
+
+
+                <RelativeLayout
+                    android:background="@drawable/clickpress"
+                    android:padding="5dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/clickheere"
+                        android:textColor="@android:color/white"
+                        android:text="Click here"
+                        android:gravity="center"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" />
+                    <ImageView
+                        android:padding="10dp"
+                        android:layout_alignParentLeft="true"
+                        android:src="@drawable/logo"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+                    <ImageView
+                        android:padding="10dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/logo"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+                    <TextView
+                        android:layout_below="@+id/clickheere"
+                        android:layout_gravity="center"
+                        android:textColor="@android:color/white"
+                        android:textSize="14dp"
+                        android:id="@+id/tv_hederfirst"
+                        android:text="SHINEMISSION99"
+                        android:gravity="center"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+           <!-- <Button
+                android:id="@+id/activity_main_webview99"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_marginBottom="7dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="7dp"
+                android:layout_weight="2"
+                android:background="@mipmap/shinemission99"
+                android:textStyle="bold" />-->
+
+
+        </LinearLayout>
+
+        <!-- This is where fragment will show up -->
+
+        <FrameLayout
+            android:id="@+id/activity_main_content_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </FrameLayout>
+    </LinearLayout>
+
+</myappplication.noida.quaere.groupalternate.MainLayout>

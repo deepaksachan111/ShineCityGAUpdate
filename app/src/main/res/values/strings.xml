@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Shine City</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="register_e_pin_Code">E-Pin Code </string>
+    <string name="register_branch_">Branch </string>
+    <string name="register_sponsor_code">Sponsor Code </string>
+    <string name="register_first_name">First Name </string>
+    <string name="register_mobile_no">Mobile </string>
+    <string name="register_pan_no">Pan No </string>
+    <string name="enquiry_query">Enter your Query/Enquiry</string>
+    <string name="project_shine_valley_plc">Shine City Valley homes are impeccable statement of style and comfort. It had changed the luxury life of the people by owning homes in this project.
+        Ultra modern designing and superior interior have made Shine Valley homes a pride of the owners. Valley is consisting of amenities like</string>
+
+    <string name="contact_us_name">SHINE CITY INFRA PROJECT PVT. LTD.</string>
+    <string name="contact_us_head_office_add">1/5, Fourth Floor, R-Square Complex,
+        Vipul Khand, Gomtinagar,
+        Lucknow - 226010</string>
+    <string name="contact_us_corp_office_add"> A 105 South city,
+        PGI Road, Near Shaheed Path,
+        Lucknow</string>
+    <string name="nature_valley_project_description">Shine City presents its most dreamt projects for the Lucknowites. The projects opens mind for whole new kind of experience and comfort. Nature Valley is build with the mind setup to bring the lives of the people near to Mother Nature. The home interiors are designed to give the maximum eco friendly environment. Interiors as well as exteriors are kept as natural as possible. The recreation areas are surrounded by myriad natural beauty. The main attractions of the project are</string>
+    <string name="nature_valley_resort_attraction_point">
+ * Rooms and Cottages
+\n * Restaurant
+\n * Swimming Pool
+\n * Party Lawn / Garden
+\n * Gymnasium
+\n * Yoga Center
+\n * Department Store</string>
+    <string name="nature_valley_other_attraction_point">
+ * Kids Arena and Board Games
+\n * Boating
+\n * Horse Riding
+\n * Indoor Games
+\n * Outdoor Games
+\n * Dairy Farm</string>
+    <string name="nature_valley_proj_location_point">Location	:	Bhaunra Kola, Kisan Path, Lucknow
+\nProject Type	:	Plot, Residential and Farmhouse
+\nPrice Type	:	Plot-351/- Sq Ft. and Farmhouse-251/- Sq Ft.
+\nScheme Type	:	Plots and Farmhouse
+\nPayment Plan	:	100% Down Payment Plan and EMI Plan</string>
+    <string name="pole_star_city_ameneties">
+ * Commercial Area
+\n * Hospital
+\n * Community Centre
+\n * School
+\n * Swimming Pool
+\n * Multi Speciality Gym
+\n * Yoga Centre
+\n * Club
+\n * Solar Street Lights</string>
+    <string name="price_type_of_pole_star_city">300/- per sq.ft. for full payment.
+350/- per sq.ft. for E.M.I</string>
+    <string name="shine_valley_project_description">Shine City Valley homes are impeccable statement of style and comfort. It had changed the luxury life of the people by owning homes in this project. Ultra modern designing and superior interior have made Shine Valley homes a pride of the owners. Valley is consisting of amenities like</string>
+    <string name="shine_valley_ameneties_point">
+ * School
+\n * Hospital
+\n * Commercial Area
+\n * Swimming Pool
+\n * Solar Street Lights
+\n * Park
+\n * Community Centre
+\n * Club
+\n * Gym</string>
+    <string name="shine_valley_project_description_2">Shine Valley project is integration of trustworthiness and happiness. 50% of the area is left for the lush green beauty which gives relief against pollution and provides a harmony to the environment. Huge balconies, ultra modern fittings, superior finish, park facing homes make Shine City Valley worth for Return on Investment. The beauty of the project is the ambience and amenities present at the Shine City Valley.</string>
+    <string name="paradise_garden_project_description">Shine city primary business is development of residential, commercial and retail properties. The Company has a unique business model with earnings arising from development Shine City offers you the opportunity to live life in a relaxed yet grand way. So while you sip on chai with your friends, or read a book while enjoying the scenery or simply take a walk with your loved once, we see to it that your home and its amenities are a perfect blend of comfort and style.</string>
+    <string name="paradise_garden_project_description_2">An eco friendly approach is kept to design the layout of the whole projects. Paradise Garden is a perfect place to settle with your loved one. A project with modern infrastructure yet connected to Mother Nature in deeper sense which provides peace of mind and soul to the lives of the people owning a home at Paradise Garden.</string>
+    <string name="paradise_garden_ameneties_point">
+* Commercial Area
+\n* Hospital
+\n* Community Centre
+\n* School
+\n* Swimming Pool
+\n* Multi-Speciality Gym
+\n* Yoga Centre
+\n* Club
+\n* Solar Street Light
+\n* Park</string>
+    <string name="mountain_heaven_project_description">The most aspired project of the Shine City. Mountain Heaven is crafted by the professionals seeking to give new dimension to the lifestyle. The state of the art infrastructure is built-in to give quality to the comfort living. The homes are designed to settle the lives of people with peace and comfort.
+An eco friendly approach is kept to design the layout of the whole projects. Mountain Heaven is a perfect place to settle with your loved one. A project with modern infrastructure yet connected to Mother Nature in deeper sense which provides peace of mind and soul to the lives of the people owning a home at Mountain Heaven.</string>
+    <string name="mountain_heaven_ameneties_point">
+* Commercial Area
+\n* Hospital
+\n* Community Centre
+\n * School
+\n* Swimming Pool
+\n* Multi-Speciality Gym
+\n* Yoga Centre
+\n* Club
+\n* Solar Street Light
+\n* Park</string>
+    <string name="mountain_heaven_cottage_ameneties_point">The cottage consists of:
+\n* Two double bedrooms, one with a small ensuite.
+\n* Fully fitted kitchen with gas stove, microwave and dishwasher.
+\n* Two sitting rooms – one with a wood- burning fireplace and sofa bed and one with a library and wood burning stove. There is an excellent range of books and children’s books available to enjoy.
+\n* Utility room with clothes washer, fridge and shower room.
+\n* Comfortable conservatory with dining table, sitting area, and soapstone wood burning stove.
+\n\nGuests have full use of:
+\n* An indoor heated swimming pool and shower room (available only in the summer).
+\n* Two ponds with seating areas.
+\n* Entertainment deck with large barbeque and eating area.</string>
+    <string name="chandrok_kashiyana_rate1">
+EMI PLAN - ₹ 650/SQFT. + ₹ 200/SQFT. ( LAND COST + DEVELOPMENT ).</string>
+     <string name="chandrok_kashiyana_rate2">
+BUY BACK PLAN - BUY @ 700 and BACK @ 1000 AFTER 18 MONTH.</string>
+     <string name="chandrok_kashiyana_rate3">
+ FULL PAYMENT PLAN - ₹ 1200 PER SQFT.</string>
+    <string name="chandrok_kashiyana_ameneties_point">
+* Commercial Area
+\n* Hospital
+\n* Community Centre
+\n* School
+\n* Swimming Pool
+\n* Multi Speciality Gym
+\n* Yoga Centre
+\n* Club
+\n* Solar Street Lights</string>
+    <string name="chandrok_kashiyana_price_type">EMI PLAN - ₹ 650/Sqft. + ₹ 200/Sqft. ( Land Cost + Development ).
+\nBUY BACK PLAN - Buy @ 700 and back @ 1000 after 18 month.
+\nFULL PAYMENT PLAN - ₹ 1200 per Sqft.</string>
+    <string name="samridhi_gullak_ameneties_point">
+* Commercial Area
+\n* Hospital
+\n* Community Centre
+\n* School
+\n* Swimming Pool
+\n* Multi Speciality Gym
+\n* Yoga Centre
+\n* Club
+\n* Solar Street Lights</string>
+    <string name="shine_nature_view_project_description">Nature View project presents to you a blend of modern lifestyle amenities with Beauty of Mother Nature in beautiful Bhowali town of Nainital. Bhowali is well connected with main town of district like Almora, Bageshwar, and Haldwani. Bhowali is famous for its incredible Himalayan View. Nature View is a township covered with beautiful scenery of Bhowali which works as a harmonizer for your Mind and Soul. Project is covered with greenery which is natural and man untouched. The environment of Bhowali offers pollution free air to breathe-in and relaxed in the midst of Nainital valley. This residential project from Shine City offers peaceful atmosphere in the lap of Mother Nature for togetherness with your loved ones.
+
+\nNature View, Shine City first project of Uttarakhand. First ever project of its kind for giving comfortable housing experience in Nainital Beautiful Countryside. Project is well versed with all basic amenities for day to-day activities like proper transportation system, clean water supply, power supply, even landscape all over the project area. ROI of the project is high. The project offer three range of Housing according to your spacing need for home- 1BHK, 2BHK and Studio Apartment.</string>
+    <string name="shine_nature_view_ameneties_point">
+* Double Bed With Mattress and Pillows In Bedroom
+\n* 4 Seater Sofa With Center Table In Living Room
+\n* One LED T.V. - 24"
+* 4 Seater Dinning Set
+* Semi Modular Kitchen
+* One 180 Ltrs. Fridge
+* Wooden Wardrobe In Bedroom
+* Fitting All Bathrooms  and Fixtures
+* Geyser in Bathroom.</string>
+    <string name="shine_nature_view_ameneties_point_2">
+* Double Bed With Mattress and Pillows In Bedroom
+\n* 5 Seater Sofa With Center Table In Living Room
+\n* One LED T.V.-32"
+* 6 Seater Dinning Set
+* Semi Modular Kitchen
+* One 180 Ltrs. Fridge
+* Wooden Wardrobe In Bedrooms
+* All Bathrooms Fitting and Fixtures
+* Geyser In Bathroom</string>
+    <string name="shine_nature_view_ameneties_studio_apart_point">
+* Single Bed With Mattress and Pillows in Bedroom
+\n* 2 Seater Sofa With Center Table In Living Room
+\n* One LED T.V. - 24"
+* Semi Modular Kitchen
+* One 180 Ltrs Fridge
+* Wooden Wardrobe in Bedroom
+* All Bathrooms Fitting and Fixtures
+* Geyser in Bathroom</string>
+    <string name="kutumb_kashiyana_offer_and_coupon_availability">***Buyback offer is available***
+\n***Coupon discount is not applicable***</string>
+    <string name="kutumb_kashiyana_project_description">Kutumb Kashiyana Project is the latest venture of Shine City and it is in Banaras, a city whose each drop of water is like a touchstone. Kutumb Kashiyana project is having beautiful belt of greenery around the whole project area which is the core element in all Shine City projects. The most advanced and latest construction technologies are used in building the housing scheme in Kutumb Kashiyana.
+\nKutumb Kashiyana Project is an exceptional offer for the house searcher who wants to settle down in a spiritual place like Banaras.</string>
+    <string name="kutumb_kashiyana_amenities_point">
+* Commercial Area
+\n* Hospital
+\n* Community Centre
+\n* School
+\n* Swimming Pool
+\n* Multi Speciality Gym
+\n* Yoga Centre
+\n* Club
+\n* Solar Street Lights</string>
+ <string name="theory">
+This project of Shine City is blissful experience of housing in the city. It is designed keeping in mind the pocket of the common man. These homes are a gift to the residents of Lucknow to have a home in their dream city at affordable rates. Solitaire City homes are worth living for as they are beautifully designed with scientific approach to bring out maximum out of limited investments.</string>
+    <string name="feature">
+* School
+\n* Hospital
+\n* Commercial Area
+\n* Swimming Pool
+\n* Park
+\n* Community Centre
+\n* Solar Street Lights
+\n* Solitaire Club
+\n* Gym</string>
+    <string name="detail">Location	:	Opp. New Jail, Kisan Path, Sidhpura, Lucknow</string>
+    <string name="detail2">Project Type	:	Residential Colony</string>
+    <string name="detail3">Price Type	:	801/- Sq Ft.</string>
+    <string name="detail4">Scheme Type	:	Residential Plots</string>
+    <string name="detail5">Payment Plan	:	100% Down Payment Plan and EMI Plan</string>
+    <string name="plcApplicable1">Xhevahire City is the township crafted with the concept to Go Greener. Greenery lush is more focused to give a calm and peaceful surrounding to the residents in the townships. Every home in the Xhevahire is surrounded by a green belt to make the environment cool and harmonized. The construction approach is also kept eco friendly in building the homes. Scientific methods are applied to the construction technology to yield more Returns on Investments.</string>
+<string name="PlcApplicable2">
+    * Commercial Area
+\n* Hospital
+\n* Community Centre
+\n* School
+\n* Swimming Pool
+\n* Multi Speciality Gym
+\n* Yoga Centre
+\n* Club
+\n* Solar Street Lights
+</string>
+    <string name="zairesparklvalley1">Zaire Sparkle Valley Project is the latest venture of Shine City and it is in Allahabad, a city whose each drop of water is like a touchstone. Zaire Sparkle Valley project is having beautiful belt of greenery around the whole project area which is the core element in all Shine City projects. The most advanced and latest construction technologies are used in building the housing scheme in Zaire Sparkle Valley.
+Zaire Sparkle Valley Project is an exceptional offer for the house searcher who wants to settle down in a spiritual place like Allahabad.</string>
+<string name="kashiyana">Kashiyana Project is the latest venture of Shine City and it is in Banaras, a city whose each drop of water is like a touchstone. Kashiyana project is having beautiful belt of greenery around the whole project area which is the core element in all Shine City projects. The most advanced and latest construction technologies are used in building the housing scheme in Kashiyana.
+Kashiyana Project is an exceptional offer for the house searcher who wants to settle down in a spiritual place like Banaras.</string>
+
+</resources>

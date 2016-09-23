@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:padding="4dp"
+    android:background="@drawable/listview_row"
+    android:orientation="vertical">
+
+    <!--  !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3.7"
+            android:gravity="center_vertical"
+            android:text="Amount "
+            android:layout_marginLeft="3dp"
+            android:textSize="24sp" />
+
+     <!--   <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="19sp"
+            android:textStyle="bold" />
+-->
+        <TextView
+            android:id="@+id/cheque_status_amountTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="3dp"
+            android:layout_weight="6.2"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+    <!-- Joining Date Row !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.7"
+            android:gravity="center_vertical"
+            android:text="Cheque No "
+            android:layout_marginLeft="3dp"
+            android:textSize="24sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+
+            android:textSize="19sp"
+            android:textStyle="bold" />
+-->
+        <TextView
+            android:id="@+id/cheque_status_chequeNoTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="6.2"
+            android:gravity="center_vertical"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+    <!-- Plot No Row !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.7"
+            android:gravity="center_vertical"
+            android:text="Cheque Date "
+            android:layout_marginLeft="3dp"
+            android:textSize="24sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/cheque_status_chequeDateTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="6.2"
+            android:gravity="center_vertical"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+    <!-- Booking Id Row !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.7"
+            android:gravity="center_vertical"
+            android:text="Party Name "
+            android:layout_marginLeft="3dp"
+            android:textSize="24sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/cheque_status_partyNameTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="6.2"
+            android:gravity="center_vertical"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+    <!-- Booking Date Row !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.7"
+            android:gravity="center_vertical"
+            android:text="Receipt No "
+            android:layout_marginLeft="3dp"
+            android:textSize="24sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/cheque_status_receiptNoTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="6.2"
+            android:gravity="center_vertical"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <!-- Cancel Date Row !-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.7"
+            android:gravity="center_vertical"
+            android:text="Status  "
+            android:layout_marginLeft="3dp"
+            android:textSize="24sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="19sp"
+            android:textStyle="bold" />
+-->        <TextView
+            android:id="@+id/cheque_status_StatusTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="6.2"
+            android:gravity="center_vertical"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_fc131d24ecd3f5ffb338dc3d38acbfffd72c3146.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_dca56c1ddfebb0a1155fdbdeefe7fb9b669093f3.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\libs\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1_3e5deed75ca7fdc3a5fbe69a9b8c7254eefdf5e8.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\libs\httpclient-4.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\httpclient-4.5_f5fadf5c57822f315da3f39ce812ea6d1aecbf18.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_68717d337863b2fd3fb5e6e13c3f15b3cfe25fc4.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_9b460848d7845ea9a6f6b404427aded9b2ba691f.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_a333b40118eecb7a4a6872a5620b9818a7d96f4a.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_9e3c71ed92f90058b69fce25a45cc36c78130c4e.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\uk.co.chrisjenx-calligraphy-2.2.0_212038098efb35342f8c8c67a584a7a88a59a40e.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_bd38f0f0a66c59af7f9343dd8f877bf8d4b91c7a.jar" />
+    </item>
+    <item
+        jar="D:\programming softwares\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_2c191847161c91fe4bd05dac9da6cd75fd35fe3f.jar" />
+    </item>
+    <item
+        jar="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\DeepakAndroid\DeepakUpdateAPP\ShineCityGA\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_8246dc4c61eafa7466c04509cce20d8090c625bc.jar" />
+    </item>
+
+</items>

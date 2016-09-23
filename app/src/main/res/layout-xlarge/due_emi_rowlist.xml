@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="3dp"
+    android:padding="3dp"
+    android:background="@drawable/listview_row"
+    android:orientation="vertical">
+
+    <!-- Customer id !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="7dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Name "
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/due_emi_customer_nameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="170dp"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Due Amount Customer Id !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Customer Id "
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/due_emi_customer_idTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:layout_marginLeft="170dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Due Emi Due Amount !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Due Amount "
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/due_emi_due_amountTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="170dp"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Due Amount Due Date !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal"
+>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Due Date "
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/due_emi_due_dateTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="170dp"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Booking Date Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Paid Amount"
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/due_emi_paid_amountTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="170dp"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Due Emi Plot NO!-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plot No"
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/due_emi_plotNoTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="170dp"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+    <!-- Due Amount Plot amount !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plot Amount"
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/due_emi_plot_amountTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:layout_marginLeft="170dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Due Emi plot area !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plot Area"
+            android:textSize="24sp" />
+
+
+
+        <TextView
+            android:id="@+id/due_emi_plot_areaTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:layout_marginLeft="170dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+    <!-- Due Emi project name !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginBottom="3dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Project Name"
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/due_emi_projectNameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:layout_marginLeft="170dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+
+
+</LinearLayout>

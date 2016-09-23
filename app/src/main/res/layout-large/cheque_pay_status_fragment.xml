@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#040f20">
+
+    <ListView
+        android:id="@+id/cheque_pay_status_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="4dp"
+        android:padding="6dp" />
+    <TextView
+        android:id="@+id/cheque_pay_emptyTv"
+        android:text="NO RECORD FOUND"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textSize="45sp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+
+</LinearLayout>
+
+

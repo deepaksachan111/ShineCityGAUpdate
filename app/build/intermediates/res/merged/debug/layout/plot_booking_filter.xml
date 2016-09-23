@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:text="Site"
+            android:textSize="17sp" />
+
+        <Spinner
+            android:id="@+id/pbfilter_site_spinner"
+            style="@style/spinner_style"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="6" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:text="Plot Status"
+            android:textSize="17sp" />
+
+        <Spinner
+            android:id="@+id/pbfilter_plotStatus_spinner"
+            style="@style/spinner_style"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="6" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:text="Payment Status"
+            android:textSize="17sp" />
+
+        <Spinner
+            android:id="@+id/pbfilter_payStatus_spinner"
+            style="@style/spinner_style"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="6" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:text="Plot No"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="17sp" />
+
+        <EditText
+            android:id="@+id/pbfilter_plotNoEt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="6"
+            android:background="@drawable/btn_background"
+            android:paddingLeft="5dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:text="Plot Holder ID"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="17sp" />
+
+        <EditText
+            android:id="@+id/pbfilter_plotHolderEt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="6"
+            android:background="@drawable/btn_background"
+            android:paddingLeft="5dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/btn_background"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/pbfilter_fromDateTv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8.5"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp"
+            android:hint="From Date"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/pbfilter_fromDateCalendar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1.5"
+            android:background="@mipmap/calendar_icon" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/btn_background"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/pbfilter_toDateTv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8.5"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp"
+            android:hint="To Date"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/pbfilter_toDateCalendar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1.5"
+            android:background="@mipmap/calendar_icon" />
+
+    </LinearLayout>
+
+    <Button
+
+        android:id="@+id/pbfilter_submitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:background="#303F9F"
+        android:text="Get Reports"
+        android:textColor="#fff" />
+
+
+</LinearLayout>

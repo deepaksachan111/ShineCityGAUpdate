@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/register_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#5C6BC0"
+        android:paddingLeft="10dp"
+        android:paddingTop="3dp"
+        android:text="JOINING INFORMATION"
+        android:textColor="#ffffff"
+        android:gravity="center_vertical"
+        android:textSize="15sp"
+        android:textStyle="bold"></TextView>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="2dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_e_pinCodeTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="E-pinCode *" />
+
+                    <EditText
+                        android:id="@+id/register_e_pinCodeEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:inputType="number"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_branchTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="Branch * " />
+
+
+                    <Spinner
+                        android:id="@+id/register_branch_spinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_designationTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Designation" />
+
+
+                    <Spinner
+                        android:id="@+id/register_designation_spinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_sponsorCodeTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Sponsor Code *" />
+
+                    <EditText
+                        android:id="@+id/register_sponsorCodeEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:hint="Enter Login Id"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp"
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:background="#5C6BC0"
+                android:paddingLeft="10dp"
+                android:paddingTop="3dp"
+                android:text="PERSONAL DETAILS"
+                android:textColor="#ffffff"
+                android:textSize="15sp"
+                android:textStyle="bold"></TextView>
+
+            <!--  </LinearLayout>-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_firstNameTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="First Name *" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="1">
+
+                        <Spinner
+                            android:id="@+id/register_firstName_spinner"
+                            style="@style/spinner_style"
+                            android:layout_width="0dp"
+                            android:layout_height="35dp"
+                            android:layout_weight="0.2"
+                            android:paddingLeft="2dp" />
+
+                        <EditText
+                            android:id="@+id/register_firstNameEt"
+                            android:layout_width="0dp"
+                            android:layout_height="35dp"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="3dp"
+                            android:layout_weight="0.8"
+                            android:background="@drawable/btn_background"
+                            android:ems="10"
+                            android:inputType="textPersonName"
+                            android:paddingLeft="3dp" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_middleNameTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Middle Name" />
+
+                    <EditText
+                        android:id="@+id/register_middleNameEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_lastNameTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Last Name" />
+
+                    <EditText
+                        android:id="@+id/register_lastNameEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_fatherNameTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Father's Name" />
+
+                    <EditText
+                        android:id="@+id/register_fatherNameEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_dobTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Date of Birth" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginRight="25dp"
+                        android:background="@drawable/btn_background"
+                        android:orientation="horizontal"
+                        android:weightSum="1">
+
+                        <TextView
+                            android:id="@+id/register_dobTv"
+                            android:layout_width="0dp"
+                            android:layout_height="35dp"
+                            android:layout_weight="0.84"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="5dp" />
+
+                        <Button
+                            android:id="@+id/button_Calendar"
+                            style="?android:attr/buttonStyleSmall"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="0.15"
+                            android:background="@mipmap/calendar_icon" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_genderTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Gender" />
+
+
+                    <Spinner
+                        android:id="@+id/register_gender_spinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingBottom="3dp" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="6dp"
+                android:text="Permanent Contact Details "
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#888"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="4dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_countryTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Country" />
+
+
+                    <Spinner
+                        android:id="@+id/register_country_spinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+                    <!--  </LinearLayout>-->
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_stateTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="State" />
+
+
+                    <Spinner
+                        android:id="@+id/register_state_spinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+                    <!-- </LinearLayout>-->
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_addressTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Address" />
+
+                    <EditText
+                        android:id="@+id/register_addressEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textMultiLine"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_cityTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="City" />
+
+                    <Spinner
+                        android:id="@+id/register_cityspinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_pinCodeTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pin Code" />
+
+                    <EditText
+                        android:id="@+id/register_pinCodeEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="phone"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_mobileTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Mobile *" />
+
+                    <EditText
+                        android:id="@+id/register_mobileEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="phone"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_emailTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Email" />
+
+                    <EditText
+                        android:id="@+id/register_emailEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textEmailAddress"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_panNoTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pan No *" />
+
+                    <EditText
+                        android:id="@+id/register_panNoEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:background="#5C6BC0"
+                android:paddingLeft="10dp"
+                android:paddingTop="3dp"
+                android:text="BANK DETAILS"
+                android:textColor="#ffffff"
+                android:textSize="15sp"
+                android:textStyle="bold"></TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="4dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_AccountNoTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Bank Acc No" />
+
+                    <EditText
+                        android:id="@+id/register_AccountNoEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="number"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_bankNameTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Bank Name" />
+
+                    <EditText
+                        android:id="@+id/register_bankNameEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_bankBranchTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Branch Name" />
+
+                    <EditText
+                        android:id="@+id/register_bankBranchEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_accountTypeTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Account Type" />
+
+
+                    <Spinner
+                        android:id="@+id/register_accountType_spinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_MicrNoTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Micr No" />
+
+                    <EditText
+                        android:id="@+id/register_MicrNoEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="number"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_IfscTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Ifsc Code" />
+
+                    <EditText
+                        android:id="@+id/register_IfscEt"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@drawable/btn_background"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="3dp" />
+
+                </LinearLayout>
+
+
+                <!--  <LinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="40dp"
+                      android:layout_marginTop="4dp"
+                      android:weightSum="10">
+
+                      <TextView
+                          android:id="@+id/register_memberIdTv"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          android:layout_weight="4"
+                          android:layout_marginLeft="15dp"
+                          android:text="Member Id"
+                          android:textAppearance="?android:attr/textAppearanceMedium"
+                          android:textSize="23sp" />
+
+                      <EditText
+                          android:id="@+id/register_memberIdEt"
+                          android:layout_width="0dp"
+                          android:layout_height="36dp"
+                          android:layout_weight="5.5"
+                          android:layout_marginRight="40dp"
+                          android:background="@drawable/btn_background"
+                          android:ems="10"
+                          android:inputType="textPersonName"
+                          android:paddingLeft="3dp" />
+
+                  </LinearLayout>-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/register_loginRegTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Joining Leg" />
+
+
+                    <Spinner
+                        android:id="@+id/register_JoiningLegspinner"
+                        style="@style/spinner_style"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:paddingBottom="3dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/register_submit_Btn"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="4dp"
+                android:background="#5C6BC0"
+                android:gravity="center"
+                android:text="Submit"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

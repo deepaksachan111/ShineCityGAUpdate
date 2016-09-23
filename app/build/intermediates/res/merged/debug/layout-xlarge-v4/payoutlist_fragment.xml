@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#040f20">
+
+    <ListView
+        android:id="@+id/payout_listView"
+        android:layout_width="match_parent"
+        android:dividerHeight="5dp"
+        android:padding="5dp"
+        android:layout_height="match_parent" />
+    <TextView
+        android:id="@+id/payout_list_emptyTv"
+        android:text="NO RECORD FOUND"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textSize="45sp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+
+</LinearLayout>
+
+

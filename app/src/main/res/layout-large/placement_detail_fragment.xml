@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:weightSum="10">
+
+
+  <!--  <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7"
+        android:orientation="horizontal">
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:inputType="textPersonName"
+            android:ems="24"
+            android:hint=" enter your search here"
+            android:textColorHint="#648cf1"
+            android:paddingLeft="15dp"
+            android:id="@+id/editText"
+            android:background="@drawable/listview_row"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom= "4dp"
+            android:layout_marginLeft="2dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="5dp"
+            android:background="@mipmap/search_icon"
+            android:padding="2dp"
+            android:layout_marginRight="4dp"
+            android:id="@+id/searchButton"
+            android:layout_toRightOf="@+id/editText"
+            android:layout_alignParentRight="true"
+         />
+
+
+
+    </RelativeLayout>
+-->    <ListView
+        android:id="@+id/placement_detail_listview"
+        android:layout_width="match_parent"
+        android:background="#040f20"
+        android:layout_weight="9.3"
+        android:dividerHeight="6dp"
+        android:layout_height="0dp" />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_alignParentBottom="true"
+            android:id="@+id/downlineTv"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:shadowColor="#f1f1f1"
+            android:textColor="#ffffff"
+            android:textSize="30sp"
+            android:background="#303F9F"
+            android:text="My Downline "/>
+    </LinearLayout>
+
+</LinearLayout>

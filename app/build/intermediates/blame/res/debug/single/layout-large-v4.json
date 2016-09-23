@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_dashboard.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cash_pay_status_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cash_pay_status_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\my_epin_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\my_epin_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\payout_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\payout_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\due_emi_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\due_emi_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_main_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\fragment_main_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_splash_screen.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\epin_register_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\epin_register_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\enquiry_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\enquiry_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\placement_detail_downline.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\placement_detail_downline.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cheque_pay_status_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cheque_pay_status_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\pswd_otp_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\pswd_otp_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\due_emi_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\due_emi_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\birthday_filter_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\birthday_filter_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\login_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cash_pay_status_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cash_pay_status_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\birthday_list_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\birthday_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\change_pswd_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\change_pswd_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cash_pay_status_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cash_pay_status_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cheque_pay_status_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cheque_pay_status_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cancel_booking_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cancel_booking_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\due_emi_customer_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\due_emi_customer_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\due_emi_filter_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\due_emi_filter_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\new_pswd_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\new_pswd_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\my_epin_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\my_epin_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\branch_spinner_row.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\branch_spinner_row.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\user_profile_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\user_profile_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\due_emi_customerlist_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\due_emi_customerlist_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\plot_booking_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\plot_booking_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\payoutlist_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\payoutlist_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\plot_booking_status_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\plot_booking_status_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\training_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\training_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\placement_detail_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\placement_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cancel_booking_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cancel_booking_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\forgot_pswd_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\forgot_pswd_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\payout_dd_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\payout_dd_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cheque_status_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\cheque_status_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\payout_vs_business_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\payout_vs_business_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\epin_detail_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\epin_detail_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\payout_dd_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\payout_dd_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\myprofile_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\myprofile_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\plot_booking_status_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\plot_booking_status_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\placement_detail_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\placement_detail_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\my_account_list_row.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\my_account_list_row.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\birthday_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\birthday_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\payout_vs_business_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout-large\\payout_vs_business_fragment.xml"
+    }
+]

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="myappplication.noida.quaere.shinecity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:maxSdkVersion="23"
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="ANDROID.PERMISSION.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="ANDROID.PERMISSION.CAMERA" />
+
+    <application
+        android:name="myappplication.noida.quaere.groupalternate.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@style/MyMaterialTheme" >
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.SplashScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.LoginActivity"
+            android:label="Shine City Login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.FragmentMainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|adjustResize" />
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.EpinRegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.ForgotPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.NewPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.OTPClass"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="myappplication.noida.quaere.groupalternate.mainpage.ProjectsActivity"
+            android:windowSoftInputMode="adjustPan|adjustResize" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.MountainHeaven" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.NatureValley" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.ParadiseGarden" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.TwinSpire" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.ChandrokKashiyana" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.GrihSangam" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.KutumbKashiyana" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.PoleStarCity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.SamridhiGullak" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.ShineNatureView" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.SignatureHeight" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.ShineValley" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.ZaireSparkleValley" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.AriseVelvet" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.Kashiyana" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.XhevahireCity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.SolitaireCity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.LodeStar" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.ContactUsActivity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.AboutUs" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.swipetab.MainTabActivity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.mainpage.FeedbackActivity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.activities.MyProfileActivity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.activities.PlacementDetailsActivity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.activities.EnquiryActivity" />
+        <activity android:name="myappplication.noida.quaere.groupalternate.WebViewMission99" />
+    </application>
+
+</manifest>

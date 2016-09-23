@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_account_tv1"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:paddingLeft="25dp"
+    android:paddingTop="6dp"
+    android:text="Medium Text"
+    android:textSize="24sp"
+    android:layout_marginBottom="5dp"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="#ffffff"
+    >
+
+</TextView>

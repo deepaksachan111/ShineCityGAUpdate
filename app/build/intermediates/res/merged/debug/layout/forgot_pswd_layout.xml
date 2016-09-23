@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#303F9F"></LinearLayout>
+
+    <TextView
+        android:id="@+id/forgot_pswdTv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="25dp"
+        android:hint="Enter Details"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/forgot_pswd_IdEt"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#000"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_layout_bg"
+        android:hint="Enter UserId "
+        android:inputType="text"
+        android:padding="5dp" />
+
+    <EditText
+        android:id="@+id/forgot_pswd_mobileEt"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:background="@drawable/edit_layout_bg"
+        android:hint="Enter Mobile Number"
+        android:inputType="phone"
+        android:padding="5dp" />
+
+
+    <Button
+        android:id="@+id/forgot_pswd_number_submit"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="25dp"
+        android:background="#303F9F"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp"
+        android:textSize="18sp"
+        android:text="Submit"
+        android:textAlignment="center"
+        android:textColor="#fff" />
+
+
+</LinearLayout>

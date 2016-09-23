@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="3dp"
+    android:background="@drawable/listview_row"
+    android:orientation="vertical">
+
+    <!--  !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="6dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Site Name "
+            android:textSize="19sp" />
+
+      <!--  <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />
+-->
+        <TextView
+            android:id="@+id/plot_booking_siteNameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+
+    <!-- Plot No Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plot No "
+            android:textSize="19sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/plot_booking_plotNoTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:layout_marginLeft="150dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+
+    <!-- Plot Holder Name Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plot Holder"
+            android:textSize="19sp" />
+
+  <!--      <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/plot_booking_HolderNameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:layout_marginLeft="150dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+
+    <!-- Plot Holder Id Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="PlotHolder Id "
+
+            android:textSize="19sp" />
+
+     <!--   <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />
+-->
+        <TextView
+            android:id="@+id/plot_booking_plotHolderIdTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_weight="2"
+            android:text=" Medium Text"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+
+    <!-- Plot Amount Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plot Amount "
+            android:textSize="19sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />
+-->
+        <TextView
+            android:id="@+id/plot_booking_plotAmountTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="150dp"
+            android:text=" Medium Text"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+    <!-- Booking Status Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Booking Status"
+            android:textSize="19sp" />
+<!--
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/plot_booking_plotStatusTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="150dp"
+            android:text=" Medium Text"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+
+    <!-- Balance Amount Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Balance Amount"
+            android:textSize="19sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/plot_booking_balanceAmountTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="150dp"
+            android:text=" Medium Text"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+    <!-- Mobile No Row !-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Mobile No  "
+            android:textSize="19sp" />
+
+       <!-- <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="  "
+            android:textSize="19sp"
+            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/plot_booking_mobileNoTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginLeft="150dp"
+            android:textColor="#000000"
+            android:textSize="19sp" />
+    </RelativeLayout>
+
+</LinearLayout>

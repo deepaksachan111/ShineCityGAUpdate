@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placement_detail_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\placement_detail_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_lodestar_city.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_lodestar_city.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_shine_valley.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_shine_valley.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plot_booking_status_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\plot_booking_status_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_paradise_garden.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_paradise_garden.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cheque_status_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cheque_status_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placement_detail_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\placement_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plot_booking_status_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\plot_booking_status_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\training_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\training_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payout_vs_business_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\payout_vs_business_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\due_emi_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\due_emi_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payout_vs_business_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\payout_vs_business_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\enquiry_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\enquiry_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_twin_spire.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_twin_spire.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_arisevelvet.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_arisevelvet.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprofile_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\myprofile_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cash_pay_status_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cash_pay_status_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\enquiry_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\enquiry_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_image_text_home_adapter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\gridview_image_text_home_adapter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\feedback_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_mountain_heaven.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_mountain_heaven.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancel_booking_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cancel_booking_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_pswd_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\new_pswd_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\projects_main_page.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\projects_main_page.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_text.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\simple_spinner_text.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_zaire_sparklevalley.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_zaire_sparklevalley.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_account_list_row.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\my_account_list_row.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\root_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\root_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprofile_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\myprofile_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payout_dd_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\payout_dd_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pswd_otp_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\pswd_otp_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payout_dd_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\payout_dd_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_pswd_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\forgot_pswd_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\user_profile_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_polestar_city.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_polestar_city.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_signature_height.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_signature_height.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\due_emi_filter_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\due_emi_filter_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placement_detail_downline.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\placement_detail_downline.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_epin_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\my_epin_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_epin_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\my_epin_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_pswd_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\change_pswd_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_shine_nature_view.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_shine_nature_view.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_grih_sangam.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_grih_sangam.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\birthday_list_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\birthday_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placement_detail_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\placement_detail_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plot_booking_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\plot_booking_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payoutlist_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\payoutlist_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancel_booking_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cancel_booking_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_us.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_xhevahirecity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_xhevahirecity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payout_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\payout_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cash_pay_status_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cash_pay_status_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_kashiyana.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_kashiyana.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview_mission99.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\webview_mission99.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\fragment_main_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_chandrok_kashiyana.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_chandrok_kashiyana.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cash_pay_status_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cash_pay_status_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\due_emi_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\due_emi_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_nature_valley.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_nature_valley.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_samridhi_gullak.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_samridhi_gullak.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_activity.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\tab_main_activity.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_solitaire_city.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_solitaire_city.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cheque_pay_status_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cheque_pay_status_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\birthday_filter_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\birthday_filter_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_grid.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\row_grid.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dashboard.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\due_emi_customer_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\due_emi_customer_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_kutumb_kashiyana.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\project_kutumb_kashiyana.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\branch_spinner_row.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\branch_spinner_row.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\epin_register_layout.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\epin_register_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cheque_pay_status_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\cheque_pay_status_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\epin_detail_filter.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\epin_detail_filter.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\birthday_rowlist.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\birthday_rowlist.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\due_emi_customerlist_fragment.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\due_emi_customerlist_fragment.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_pic_dialog.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\src\\main\\res\\layout\\upload_pic_dialog.xml"
+    },
+    {
+        "merged": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\DeepakAndroid\\DeepakUpdateAPP\\ShineCityGA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    }
+]
