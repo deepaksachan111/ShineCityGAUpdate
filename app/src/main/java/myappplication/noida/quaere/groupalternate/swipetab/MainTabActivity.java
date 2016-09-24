@@ -74,7 +74,8 @@ public class MainTabActivity extends AppCompatActivity {
         public void onBackPressed() {
 
             if (doubleBackToExitPressedOnce) {
-                super.onBackPressed();
+             //  super.onBackPressed();
+                finish();
                 return;
             }
 

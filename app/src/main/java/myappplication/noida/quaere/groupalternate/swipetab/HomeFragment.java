@@ -67,7 +67,7 @@ public class HomeFragment extends Fragment {
 
                     //Call Us
                     case 1:
-                        Intent tollfreeIntent = new Intent(Intent.ACTION_CALL);
+                        Intent tollfreeIntent = new Intent(Intent.ACTION_DIAL);
                         tollfreeIntent.setData(Uri.parse("tel:18002000480"));
                         startActivityForResult(tollfreeIntent, 2);
                         break;
